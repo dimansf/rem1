@@ -1,1 +1,13 @@
+<<<<<<< Updated upstream
 delete this file
+=======
+asdsadasdasdelete this file
+
+
+not deleted in master
+1223
+21
+3
+213
+213
+>>>>>>> Stashed changes
